@@ -1,5 +1,5 @@
 # packer-windows
-This repository contains Windows templates that can be used to create boxes for Vagrant using Packer.
+This repository contains Windows templates that can be used to create boxes for Vagrant using Packer (version 1.5.6).
 
 
 . Download packer from https://developer.hashicorp.com/packer/downloads?host=www.packer.io
